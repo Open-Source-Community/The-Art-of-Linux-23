@@ -43,17 +43,17 @@
 
 ### 8. Show Hidden Content
 
-1. Display the content of the ".hidden_file" you created in Step 3, which is now inside the copied "My_Documents" directory.
+1. Display the content of the ".hidden_file" you created in Step 3.
 
 ### 9. Move Files
 
-1. Move the "file2.txt" and "file3.txt" files from the "Documents" directory to the "My_Documents" directory using a single command.
+1. Move the "file2.txt" and "file3.txt" files from the "Documents" directory to your main directory (the one with your first and last names) using the appropriate command.
 2. Verify that the files are moved successfully.
 
 ### 10. Remove Your Directory
 
-1. Go back to your main directory (the one with your first and last names) using the appropriate command.
-2. Finally, delete the main directory you created at the beginning, along with all its contents. Use the appropriate command to remove the directory and its contents.
+1. Go back to your home directory using the appropriate command.
+2. Remove your main directory (the one with your first and last names) using the appropriate command.
 3. Verify that the main directory is successfully removed.
 
 --------------------------------------------------
