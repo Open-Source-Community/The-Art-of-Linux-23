@@ -2,7 +2,7 @@
 
 ## Task 2
 
-1. Download the file [Task-02.zip](Task-02.zip) to your computer.
+1. Download the file [Updated-Task-02.zip](Updated-Task-02.zip) to your computer.
 2. Extract the contents of the file.
 3. Begin by reading the instructions in the README.txt file and follow them carefully.
 
