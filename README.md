@@ -12,9 +12,17 @@ Welcome to The Art of Linux Summer Training 2023! This repository contains all t
 - [Solutions]() **(Upcoming)**
 
 
-### Sesssion 2: Links, Search, Compression, and Output Redirection
+### Session 2: Links, Search, Compression, and Output Redirection
 
 - [Presentation](https://docs.google.com/presentation/d/1mBhec4oLBWfpzH15E12YuR_c06YrbtYvM_JOwIp50KA/edit?usp=sharing)
 - [PDF](Session2/Session2.pdf)
 - [Task](Session2/README.md)
+- [Solutions]() **(Upcoming)**
+
+
+### Session 3: Permissions, users, processes and package managers.
+
+- [Presentation](https://docs.google.com/presentation/d/1Bzv4We-uCLlVqjaYY9D5DP_RrLLe8irJFpPxw-Sx9eM/edit?usp=sharing)
+- [PDF](Session3/Session-3.pdf)
+- [Task]() **(To be announced)**
 - [Solutions]() **(Upcoming)**
