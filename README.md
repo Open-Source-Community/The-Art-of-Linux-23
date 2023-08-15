@@ -24,5 +24,5 @@ Welcome to The Art of Linux Summer Training 2023! This repository contains all t
 
 - [Presentation](https://docs.google.com/presentation/d/1Bzv4We-uCLlVqjaYY9D5DP_RrLLe8irJFpPxw-Sx9eM/edit?usp=sharing)
 - [PDF](Session3/Session-3.pdf)
-- [Task]() **(To be announced)**
+- [Task](Session3/README.md)
 - [Solutions]() **(Upcoming)**
