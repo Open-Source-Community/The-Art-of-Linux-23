@@ -26,3 +26,11 @@ Welcome to The Art of Linux Summer Training 2023! This repository contains all t
 - [PDF](Session3/Session-3.pdf)
 - [Task](Session3/README.md)
 - [Solutions]() **(Upcoming)**
+
+
+### Session 4: Shell Scripting using Bash.
+
+- [Presentation](https://docs.google.com/presentation/d/1cibIaFzTJYDG-O9RbbyezALQoopqMlEYS5EENhYw_7w/edit?usp=sharing)
+- [PDF](Session4/Session4.pdf)
+- [Task]() **Upcoming**
+- [Solutions]() **(Upcoming)**
