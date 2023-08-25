@@ -39,4 +39,4 @@ Welcome to The Art of Linux Summer Training 2023! This repository contains all t
 ### Session 5: Vim
 
 - [Presentation](https://docs.google.com/presentation/d/1-l-Aiza5BeVF_1Qt39uy8syCg6IKUpLTBWLV680pmo0/edit?usp=sharing)
-- [PDF](Session4/Session5.pdf)
+- [PDF](Session5/Session5.pdf)
