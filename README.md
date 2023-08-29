@@ -37,3 +37,10 @@ Welcome to The Art of Linux Summer Training 2023! This repository contains all t
 - [Presentation](https://docs.google.com/presentation/d/1-l-Aiza5BeVF_1Qt39uy8syCg6IKUpLTBWLV680pmo0/edit?usp=sharing)
 - [PDF](Session5/Session5.pdf)
 - [Vim Practice Files](Session5/vim-practice.tar.gz)
+
+### Session 6: Text processing
+
+- [Presentation](https://docs.google.com/presentation/d/1xLWdtzSM8g8M-RmS-jfERcZqekZs0j5Y/edit?usp=sharing&ouid=117429253230312644358&rtpof=true&sd=true)
+- [PDF](Session6/Session6.pdf)
+- [Task]() **(Upcoming)**
+- [Solutions]() **(Upcoming)**
