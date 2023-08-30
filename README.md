@@ -44,3 +44,7 @@ Welcome to The Art of Linux Summer Training 2023! This repository contains all t
 - [PDF](Session6/Session6.pdf)
 - [Task](Session6/README.md)
 - [Solutions](Session6/Solutions.md)
+
+### Practice Sheet 
+
+- [PDF](PracticeSheet/Practice-Sheet.pdf)
