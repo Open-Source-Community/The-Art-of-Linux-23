@@ -48,3 +48,8 @@ Welcome to The Art of Linux Summer Training 2023! This repository contains all t
 ### Practice Sheet 
 
 - [PDF](PracticeSheet/Practice-Sheet.pdf)
+
+### Exam 
+
+- [PDF](Exam/Linux_Exam_Model_A.pdf)
+- [Answers](Exam/Linux_Exam_Model_Answers.pdf)
